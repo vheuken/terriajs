@@ -79,7 +79,7 @@
     "worker-loader": "^1.0.0"
   },
   "devDependencies": {
-    "babel-eslint": "^7.0.0",
+    "babel-eslint": "^9.0.0",
     "css-loader": "^0.28.0",
     "electron": "^2.0.0",
     "enzyme": "^3.3.0",
